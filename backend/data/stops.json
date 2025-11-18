@@ -1,0 +1,247 @@
+[
+  {
+    "id": "1",
+    "name": "KSRTC Bus Stand Mangalore",
+    "location": "Bejai, Mangalore",
+    "coordinates": { "lat": 12.8698, "lng": 74.8434 },
+    "facilities": ["Ticket Counter", "Waiting Room", "Restrooms", "Food Stalls", "ATM", "Parking"]
+  },
+  {
+    "id": "2",
+    "name": "Hampankatta",
+    "location": "Central Mangalore",
+    "coordinates": { "lat": 12.8700, "lng": 74.8428 },
+    "facilities": ["Major Junction", "Shopping Area", "ATM"]
+  },
+  {
+    "id": "3",
+    "name": "Surathkal NITK",
+    "location": "NITK Campus Area",
+    "coordinates": { "lat": 13.0067, "lng": 74.7951 },
+    "facilities": ["College Stop", "Food Outlets", "Cafeteria"]
+  },
+  {
+    "id": "4",
+    "name": "Baikampady",
+    "location": "Baikampady, Mangalore",
+    "coordinates": { "lat": 12.8925, "lng": 74.8758 },
+    "facilities": ["Industrial Area Stop", "Parking"]
+  },
+  {
+    "id": "5",
+    "name": "Mulki",
+    "location": "Mulki Town",
+    "coordinates": { "lat": 13.0908, "lng": 74.7936 },
+    "facilities": ["Town Bus Stand", "Market", "Restrooms"]
+  },
+  {
+    "id": "6",
+    "name": "Katapadi Junction",
+    "location": "Katapadi",
+    "coordinates": { "lat": 13.3239, "lng": 74.7644 },
+    "facilities": ["Junction", "Railway Station Nearby", "Waiting Area"]
+  },
+  {
+    "id": "7",
+    "name": "Manipal MIT Campus",
+    "location": "Manipal University",
+    "coordinates": { "lat": 13.3467, "lng": 74.7931 },
+    "facilities": ["University Stop", "Cafeteria", "ATM", "Bookstore"]
+  },
+  {
+    "id": "8",
+    "name": "Udupi Bus Stand",
+    "location": "Service Bus Stand, Udupi",
+    "coordinates": { "lat": 13.3389, "lng": 74.7459 },
+    "facilities": ["Main Bus Stand", "Ticket Counter", "Waiting Room", "Restrooms", "Food Court", "ATM", "Parking"]
+  },
+  {
+    "id": "9",
+    "name": "Kadri Temple",
+    "location": "Kadri, Mangalore",
+    "coordinates": { "lat": 12.8931, "lng": 74.8564 },
+    "facilities": ["Temple Area", "Parking"]
+  },
+  {
+    "id": "10",
+    "name": "Falnir Road",
+    "location": "Falnir, Mangalore",
+    "coordinates": { "lat": 12.8622, "lng": 74.8397 },
+    "facilities": ["Shopping Area", "Market"]
+  },
+  {
+    "id": "11",
+    "name": "Karavali Bypass",
+    "location": "Udupi Bypass",
+    "coordinates": { "lat": 13.3450, "lng": 74.7550 },
+    "facilities": ["Highway Stop", "Fuel Station"]
+  },
+  {
+    "id": "12",
+    "name": "Kundapura Bus Stand",
+    "location": "Kundapura Town",
+    "coordinates": { "lat": 13.6272, "lng": 74.6896 },
+    "facilities": ["Town Bus Stand", "Market", "Restrooms", "Ticket Counter"]
+  },
+  {
+    "id": "13",
+    "name": "Karkala",
+    "location": "Karkala Town",
+    "coordinates": { "lat": 13.2114, "lng": 74.9931 },
+    "facilities": ["Town Bus Stand", "Temple Town", "Market"]
+  },
+  {
+    "id": "14",
+    "name": "BC Road",
+    "location": "Bantwal-Mangalore Road",
+    "coordinates": { "lat": 12.8950, "lng": 75.0150 },
+    "facilities": ["Junction", "Market", "Shopping"]
+  },
+  {
+    "id": "15",
+    "name": "Moodbidri",
+    "location": "Moodbidri Town",
+    "coordinates": { "lat": 13.0726, "lng": 74.9952 },
+    "facilities": ["Town Bus Stand", "Jain Temples Area", "Heritage Site"]
+  },
+  {
+    "id": "16",
+    "name": "Kalyanpura",
+    "location": "Kalyanpura, Udupi",
+    "coordinates": { "lat": 13.3300, "lng": 74.7500 },
+    "facilities": ["Local Stop", "Residential"]
+  },
+  {
+    "id": "17",
+    "name": "Jyothi Circle",
+    "location": "Mangalore City",
+    "coordinates": { "lat": 12.8650, "lng": 74.8400 },
+    "facilities": ["City Center", "Shopping", "Cinema"]
+  },
+  {
+    "id": "18",
+    "name": "Adyar",
+    "location": "Adyar, Mangalore",
+    "coordinates": { "lat": 12.8850, "lng": 74.8500 },
+    "facilities": ["Residential Area", "Market"]
+  },
+  {
+    "id": "19",
+    "name": "Mangalore Central Railway Station",
+    "location": "Near Railway Station",
+    "coordinates": { "lat": 12.9019, "lng": 74.8560 },
+    "facilities": ["Railway Connectivity", "Waiting Room", "ATM", "Food Stalls"]
+  },
+  {
+    "id": "20",
+    "name": "Pumpwell Circle",
+    "location": "Pumpwell, Mangalore",
+    "coordinates": { "lat": 12.8856, "lng": 74.8428 },
+    "facilities": ["Major Junction", "Shopping Complex"]
+  },
+  {
+    "id": "21",
+    "name": "Valencia",
+    "location": "Valencia, Mangalore",
+    "coordinates": { "lat": 12.8745, "lng": 74.8312 },
+    "facilities": ["Residential", "Shopping"]
+  },
+  {
+    "id": "22",
+    "name": "Kankanady Market",
+    "location": "Kankanady, Mangalore",
+    "coordinates": { "lat": 12.8844, "lng": 74.8544 },
+    "facilities": ["Market", "Shopping Area", "Food Court"]
+  },
+  {
+    "id": "23",
+    "name": "Mangalore Junction",
+    "location": "MG Road, Mangalore",
+    "coordinates": { "lat": 12.8697, "lng": 74.8420 },
+    "facilities": ["Commercial Hub", "Shopping", "Banks"]
+  },
+  {
+    "id": "24",
+    "name": "Bunts Hostel Circle",
+    "location": "Bunts Hostel, Mangalore",
+    "coordinates": { "lat": 12.8756, "lng": 74.8378 },
+    "facilities": ["Residential", "College Area"]
+  },
+  {
+    "id": "25",
+    "name": "Malpe Beach",
+    "location": "Malpe, Udupi",
+    "coordinates": { "lat": 13.3505, "lng": 74.7037 },
+    "facilities": ["Beach Area", "Tourist Spot", "Restaurants", "Parking"]
+  },
+  {
+    "id": "26",
+    "name": "Manipal Hospital",
+    "location": "Madhav Nagar, Manipal",
+    "coordinates": { "lat": 13.3525, "lng": 74.7875 },
+    "facilities": ["Hospital", "Medical Services", "Pharmacy"]
+  },
+  {
+    "id": "27",
+    "name": "Parkala Junction",
+    "location": "Parkala",
+    "coordinates": { "lat": 13.1500, "lng": 74.8200 },
+    "facilities": ["Junction", "Local Stop"]
+  },
+  {
+    "id": "28",
+    "name": "Brahmavar",
+    "location": "Brahmavar Town",
+    "coordinates": { "lat": 13.4380, "lng": 74.7450 },
+    "facilities": ["Town Stop", "Market"]
+  },
+  {
+    "id": "29",
+    "name": "Shirva",
+    "location": "Shirva",
+    "coordinates": { "lat": 13.1800, "lng": 74.9100 },
+    "facilities": ["Local Stop", "Village"]
+  },
+  {
+    "id": "30",
+    "name": "Hiriyadka",
+    "location": "Hiriyadka",
+    "coordinates": { "lat": 13.4050, "lng": 74.8850 },
+    "facilities": ["Town Stop", "Market"]
+  },
+  {
+    "id": "31",
+    "name": "Padubidri",
+    "location": "Padubidri Town",
+    "coordinates": { "lat": 13.1389, "lng": 74.7736 },
+    "facilities": ["Town Bus Stand", "Temple Area"]
+  },
+  {
+    "id": "32",
+    "name": "Kaup Beach",
+    "location": "Kaup, Udupi",
+    "coordinates": { "lat": 13.2283, "lng": 74.7461 },
+    "facilities": ["Beach", "Lighthouse", "Tourist Spot"]
+  },
+  {
+    "id": "33",
+    "name": "Santhekatte",
+    "location": "Santhekatte, Udupi",
+    "coordinates": { "lat": 13.3350, "lng": 74.7480 },
+    "facilities": ["Local Junction"]
+  },
+  {
+    "id": "34",
+    "name": "Ambalpady",
+    "location": "Ambalpady, Udupi",
+    "coordinates": { "lat": 13.3250, "lng": 74.7420 },
+    "facilities": ["Local Stop", "Residential"]
+  },
+  {
+    "id": "35",
+    "name": "Nityananda Ashram",
+    "location": "Kanhangad Road",
+    "coordinates": { "lat": 13.3100, "lng": 74.7350 },
+    "facilities": ["Ashram", "Spiritual Center"]
+  }
+]

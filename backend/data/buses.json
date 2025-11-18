@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "number": "KA-19-C-1234",
+    "type": "Ordinary",
+    "operator": "KSRTC",
+    "capacity": 52,
+    "amenities": ["Basic Seating", "Standing Room"],
+    "farePerKm": 1.2
+  },
+  {
+    "id": "2",
+    "number": "KA-19-E-5678",
+    "type": "Express",
+    "operator": "KSRTC",
+    "capacity": 49,
+    "amenities": ["Pushback Seats", "Reading Lights", "Mobile Charging"],
+    "farePerKm": 1.5
+  },
+  {
+    "id": "3",
+    "number": "KA-19-V-9012",
+    "type": "Volvo AC",
+    "operator": "KSRTC",
+    "capacity": 45,
+    "amenities": ["AC", "Pushback Seats", "USB Charging", "WiFi", "Water Bottle"],
+    "farePerKm": 2.5
+  },
+  {
+    "id": "4",
+    "number": "KA-20-C-3456",
+    "type": "Ordinary",
+    "operator": "KSRTC",
+    "capacity": 52,
+    "amenities": ["Basic Seating", "Standing Room"],
+    "farePerKm": 1.2
+  },
+  {
+    "id": "5",
+    "number": "KA-19-E-7890",
+    "type": "Express",
+    "operator": "KSRTC",
+    "capacity": 49,
+    "amenities": ["Pushback Seats", "Reading Lights", "Mobile Charging"],
+    "farePerKm": 1.5
+  },
+  {
+    "id": "6",
+    "number": "KA-19-C-2468",
+    "type": "Ordinary City",
+    "operator": "KSRTC",
+    "capacity": 55,
+    "amenities": ["Standing Room", "Wide Doors", "Low Floor"],
+    "farePerKm": 1.0
+  },
+  {
+    "id": "7",
+    "number": "KA-19-E-1357",
+    "type": "Express Semi-Sleeper",
+    "operator": "VRL Travels",
+    "capacity": 40,
+    "amenities": ["Semi-Sleeper", "AC", "Reading Lights", "Blanket", "Water Bottle"],
+    "farePerKm": 2.0
+  },
+  {
+    "id": "8",
+    "number": "KA-20-C-8024",
+    "type": "Ordinary",
+    "operator": "KSRTC",
+    "capacity": 52,
+    "amenities": ["Basic Seating", "Standing Room"],
+    "farePerKm": 1.2
+  },
+  {
+    "id": "9",
+    "number": "KA-19-E-4680",
+    "type": "Express",
+    "operator": "RDS Travels",
+    "capacity": 49,
+    "amenities": ["Pushback Seats", "Reading Lights", "Mobile Charging", "First Aid"],
+    "farePerKm": 1.5
+  },
+  {
+    "id": "10",
+    "number": "KA-19-V-7531",
+    "type": "Volvo Multi-Axle AC",
+    "operator": "KSRTC",
+    "capacity": 43,
+    "amenities": ["Multi-Axle Suspension", "AC", "Reclining Seats", "USB Charging", "WiFi", "Entertainment System", "Water Bottle", "Snack"],
+    "farePerKm": 3.0
+  },
+  {
+    "id": "11",
+    "number": "KA-19-S-9246",
+    "type": "AC Sleeper",
+    "operator": "Spectra Connect",
+    "capacity": 36,
+    "amenities": ["AC", "Sleeper Berths", "Privacy Curtains", "Blanket", "Pillow", "Reading Lights", "USB Charging"],
+    "farePerKm": 2.8
+  },
+  {
+    "id": "12",
+    "number": "KA-20-E-1593",
+    "type": "Express Non-AC",
+    "operator": "Khamsa Travels",
+    "capacity": 50,
+    "amenities": ["Pushback Seats", "Mobile Charging", "Water Bottle"],
+    "farePerKm": 1.4
+  },
+  {
+    "id": "13",
+    "number": "KA-19-C-5791",
+    "type": "Ordinary",
+    "operator": "KSRTC",
+    "capacity": 52,
+    "amenities": ["Basic Seating", "Standing Room"],
+    "farePerKm": 1.2
+  },
+  {
+    "id": "14",
+    "number": "KA-20-V-3157",
+    "type": "Volvo AC",
+    "operator": "VRL Travels",
+    "capacity": 45,
+    "amenities": ["AC", "Pushback Seats", "USB Charging", "WiFi", "Entertainment", "Water Bottle"],
+    "farePerKm": 2.6
+  },
+  {
+    "id": "15",
+    "number": "KA-19-E-8642",
+    "type": "Express",
+    "operator": "KSRTC",
+    "capacity": 49,
+    "amenities": ["Pushback Seats", "Reading Lights", "Mobile Charging"],
+    "farePerKm": 1.5
+  },
+  {
+    "id": "16",
+    "number": "KA-20-C-9753",
+    "type": "City Shuttle",
+    "operator": "KSRTC",
+    "capacity": 55,
+    "amenities": ["Low Floor", "Wide Doors", "Standing Room", "AC"],
+    "farePerKm": 1.1
+  },
+  {
+    "id": "17",
+    "number": "KA-19-S-4826",
+    "type": "AC Sleeper",
+    "operator": "FlixBus India",
+    "capacity": 36,
+    "amenities": ["AC", "Sleeper Berths", "Privacy Curtains", "Blanket", "Pillow", "WiFi", "USB Charging", "Entertainment"],
+    "farePerKm": 2.9
+  },
+  {
+    "id": "18",
+    "number": "KA-20-E-6184",
+    "type": "Express Premium",
+    "operator": "Orange Travels",
+    "capacity": 45,
+    "amenities": ["Pushback Seats", "AC", "USB Charging", "WiFi", "Snacks", "Water Bottle"],
+    "farePerKm": 2.2
+  },
+  {
+    "id": "19",
+    "number": "KA-19-C-3951",
+    "type": "Ordinary",
+    "operator": "KSRTC",
+    "capacity": 52,
+    "amenities": ["Basic Seating", "Standing Room"],
+    "farePerKm": 1.2
+  },
+  {
+    "id": "20",
+    "number": "KA-20-V-7248",
+    "type": "Volvo Multi-Axle AC",
+    "operator": "KSRTC",
+    "capacity": 43,
+    "amenities": ["Multi-Axle Suspension", "AC", "Luxury Reclining Seats", "USB Charging", "WiFi", "Entertainment System", "Water Bottle", "Snack", "Pillow"],
+    "farePerKm": 3.2
+  },
+  {
+    "id": "21",
+    "number": "KA-19-E-1472",
+    "type": "Express",
+    "operator": "SRS Travels",
+    "capacity": 49,
+    "amenities": ["Pushback Seats", "Reading Lights", "Mobile Charging", "Water Bottle"],
+    "farePerKm": 1.5
+  },
+  {
+    "id": "22",
+    "number": "KA-20-C-8539",
+    "type": "Ordinary",
+    "operator": "KSRTC",
+    "capacity": 52,
+    "amenities": ["Basic Seating", "Standing Room"],
+    "farePerKm": 1.2
+  },
+  {
+    "id": "23",
+    "number": "KA-19-S-2683",
+    "type": "Semi-Sleeper AC",
+    "operator": "Kallada Travels",
+    "capacity": 40,
+    "amenities": ["Semi-Sleeper", "AC", "Reading Lights", "Blanket", "Water Bottle", "USB Charging"],
+    "farePerKm": 2.1
+  },
+  {
+    "id": "24",
+    "number": "KA-20-E-9164",
+    "type": "Express Deluxe",
+    "operator": "Parveen Travels",
+    "capacity": 48,
+    "amenities": ["Luxury Pushback Seats", "AC", "Entertainment", "USB Charging", "WiFi", "Water Bottle", "Snacks"],
+    "farePerKm": 2.3
+  },
+  {
+    "id": "25",
+    "number": "KA-19-C-5827",
+    "type": "City Bus",
+    "operator": "KSRTC",
+    "capacity": 55,
+    "amenities": ["Low Floor", "Standing Room", "Wide Doors"],
+    "farePerKm": 1.0
+  }
+]
