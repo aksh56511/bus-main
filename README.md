@@ -1,4 +1,4 @@
-# Bus Transit App - Mangalore-Udupi Region 🚌
+# smart bus App -  🚌
 
 A comprehensive full-stack bus transit system for the Mangalore-Udupi-Kundapura region with real-time route planning, fare calculation, place discovery, and AI-powered chatbot assistance.
 
@@ -74,7 +74,7 @@ npm run frontend
 ## 🎯 Key Features Explained
 
 ### Route Finding
-- Search from 35 bus stops across Mangalore-Udupi region
+- Search from different bus stops 
 - Direct routes and 1-transfer options
 - Real bus timings (first bus 03:16, last bus 22:30)
 - Frequency information and amenities display
@@ -248,7 +248,7 @@ Internal team project - Not for public distribution
 
 ---
 
-**Built with ❤️ for the Mangalore-Udupi transit system**
+built with :
 │   ├── config/
 │   ├── controllers/
 │   ├── models/
